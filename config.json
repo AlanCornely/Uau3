@@ -7,4 +7,8 @@
         "greeting": "Olá, mundo!",
         "farewell": "Adeus!"
     }
+    "jp":{
+        "greeting": "こんにちは、世界よ！"
+        "farewell": "さようなら!"
+    }
 }
